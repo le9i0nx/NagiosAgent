@@ -4,6 +4,7 @@ http://www.netpatch.ru/nagiosagent.html
 build:
 
 qmake ./NagiosAgent.pro
+
 make
 
 Программа для мониторинга сервера Nagios - Nagios Agent
