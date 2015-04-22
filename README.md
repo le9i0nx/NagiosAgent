@@ -1,6 +1,11 @@
 # NagiosAgent
 http://www.netpatch.ru/nagiosagent.html
 
+build:
+
+qmake ./NagiosAgent.pro
+make
+
 Программа для мониторинга сервера Nagios - Nagios Agent
 
 Поддерживаемые платформы: Windows, Linux, FreeBSD, MacOS.
