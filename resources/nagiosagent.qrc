@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file>icon16x16-add-profile.png</file>
+        <file>icon16x16-default-profile.png</file>
+        <file>icon16x16-delete-profile.png</file>
+        <file>icon16x16-host-down-1.png</file>
+        <file>icon16x16-host-down-2.png</file>
+        <file>icon16x16-host-up-1.png</file>
+        <file>icon16x16-host-up-2.png</file>
+        <file>icon16x16-problem.png</file>
+        <file>icon16x16-rename-profile.png</file>
+        <file>icon16x16-save-profile.png</file>
+        <file>icon16x16-server-problem.png</file>
+        <file>icon16x16.png</file>
+    </qresource>
+    <qresource prefix="/sounds" >
+        <file>HostDown.wav</file>
+        <file>HostUp.wav</file>
+        <file>trouble.wav</file>
+    </qresource>
+    <qresource prefix="/translators" >
+        <file>NagiosAgentLang_ru.qm</file>
+        <file>qt_ru.qm</file>
+    </qresource>
+</RCC>
